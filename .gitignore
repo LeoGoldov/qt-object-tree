@@ -1,0 +1,16 @@
+.vs/
+x64/
+Debug/
+Release/
+build/
+*.user
+*.o
+moc_*
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.pch
+*.res
